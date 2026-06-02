@@ -1,0 +1,4 @@
+python introduction
+OOPS CONCEPTS
+data science intro:
+    numpy,pandas ,shlearn,matplotlib -libraries 
