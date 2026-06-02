@@ -1,4 +1,0 @@
-SESSION 1:
-  self introduction
-  final year project
-  python introduction and componenets

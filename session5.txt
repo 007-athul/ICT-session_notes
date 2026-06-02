@@ -1,4 +1,0 @@
-Environment setup
-python installation
-vs code setup
-virtual environment steup
