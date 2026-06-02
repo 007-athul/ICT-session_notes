@@ -1,0 +1,17 @@
+WINDOWS SHORTCUTS:
+    Windows keyboard shortcuts
+    Win + x =power user menu
+    Alt+f4=window close
+    Ctrl+shift+esc
+    Alt/win +tab= tab switching
+    Win+r =run dialog
+    Win+h voice transcription
+    Win+.= emoji
+    Prtscr=
+    Ctrl shift arrowkey select text
+    Ctrl shift,/. Increase or decrease
+    Ctrl+shift+v 
+    Ctrl+f =search
+    Ctrl+k =link
+    Ctrl+shift+=size
+
